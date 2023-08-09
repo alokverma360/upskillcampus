@@ -11,9 +11,7 @@ db = mysql.connector.connect(
 )
 
 cursor = db.cursor()
-create_database_query = "CREATE DATABASE new_database"
 
-cursor.execute(create_database_query)
 # Create the table if it doesn't exist
 cursor.execute("""
     CREATE TABLE IF NOT EXISTS passwords (
