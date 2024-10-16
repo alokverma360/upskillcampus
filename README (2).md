@@ -47,11 +47,5 @@ The key objectives of this Password Manager project include:
 5. Share passwords securely using the Password Sharing feature.
 6. Regularly audit your password health with the Password Audit feature.
 
-## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
