@@ -1,9 +1,11 @@
 ABOUT PASSWORD MANAGER
 
 Overview
-This project is a Password Manager designed to enhance cybersecurity by simplifying password management and promoting secure online practices. The Password Manager allows users to store, generate, and manage passwords for multiple accounts while ensuring strong encryption and data privacy. It supports cross-platform access, secure sharing, and integrates best practices like password complexity and two-factor authentication (2FA) .
+
+This project is a Password Manager designed to enhance cybersecurity by simplifying password management and promoting secure online practices. The Password Manager allows users to store, generate, and manage passwords for multiple accounts while ensuring strong encryption and data privacy. It supports cross-platform access, secure sharing, and integrates best practices like password complexity and two-factor authentication (2FA).
 
 Features
+
 Secure Password Storage: Uses strong encryption to securely store passwords and sensitive login information.
 Password Generation: Automatically generates strong, random passwords based on user-defined criteria.
 Single Master Password: Access all stored passwords with a single master password.
